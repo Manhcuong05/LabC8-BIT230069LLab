@@ -16,4 +16,4 @@ public class DebugLog : MonoBehaviour
     {
         Debug.Log("Exit");
     }
-}
+} 
